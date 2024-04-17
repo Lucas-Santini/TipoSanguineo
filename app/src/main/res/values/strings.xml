@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Qual o seu tipo sanguíneo?</string>
+    <string name="order_user">Informe seu tipo sanguíneo:</string>
+    <string name="action_button">Pesquisar</string>
+    <string name="app_name1">Pessoas com os tipos sanguíneos abaixo podem doar para você:</string>
+    <string name="app_name2">Resultado</string>
+</resources>
